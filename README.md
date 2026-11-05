@@ -8,9 +8,9 @@ A collection of five data analytics projects that turn raw data into interactive
 |---|---------|----------|-------|-----------|
 | 1 | [Order Store Dashboard](Project%20Dashboard%201) | E-Commerce | Python, Tableau | 10,000+ records |
 | 2 | [Sales Performance Dashboard](Project%20Dashboard%202) | Retail | MySQL, Power BI | 1,000+ records |
-| 3 | [Order Analysis Dashboard](Project%20Dashboard%203) | Retail | Google Sheets, Looker Studio | 9,000+ records |
-| 4 | [Sales and Profit Dashboard](Project%20Dashboard%204) | Pharmaceutical | Excel | 8,000+ records |
-| 5 | [Regional Business Performance Report](Project%20Dashboard%205) | Telecommunications | Excel, PowerPoint | 200,000+ records |
+| 3 | [Performance Business Regional](Project%20Dashboard%203) | Telecommunications | Excel, PowerPoint | 200,000+ records |
+| 4 | [Report Analysis Dashboard](Project%20Dashboard%204) | Supplies | Google Sheets, Looker Studio | 9,000+ records |
+| 5 | [Sales and Profit Dashboard](Project%20Dashboard%205) | Pharmaceutical | Excel | 8,000+ records |
 
 ## Project Summaries
 
