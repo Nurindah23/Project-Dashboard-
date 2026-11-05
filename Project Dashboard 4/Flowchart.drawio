@@ -1,0 +1,49 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Looker Studio Workflow" id="flow6">
+    <mxGraphModel dx="1455" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="1000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n0" parent="1" style="strokeColor=#82b366;fillColor=#d5e8d4;rounded=1;arcSize=50;fontStyle=1;" value="Start" vertex="1">
+          <mxGeometry height="45" width="160" x="220" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n1" parent="1" style="shape=document;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="Raw Data&#xa;(Google Sheets)" vertex="1">
+          <mxGeometry height="70" width="160" x="220" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="n2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;" value="Data Cleaning &amp; Preparation&#xa;(Google Sheets)" vertex="1">
+          <mxGeometry height="70" width="160" x="220" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="n3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1;" value="Connect Data to Looker Studio" vertex="1">
+          <mxGeometry height="70" width="160" x="220" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="n4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;" value="Build Visualizations&#xa;+ Add Filters" vertex="1">
+          <mxGeometry height="70" width="160" x="220" y="408" as="geometry" />
+        </mxCell>
+        <mxCell id="n5" parent="1" style="shape=document;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;" value="Looker Studio Dashboard" vertex="1">
+          <mxGeometry height="70" width="160" x="220" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="n6" parent="1" style="strokeColor=#b85450;fillColor=#f8cecc;rounded=1;arcSize=50;fontStyle=1;" value="End" vertex="1">
+          <mxGeometry height="45" width="160" x="220" y="592" as="geometry" />
+        </mxCell>
+        <mxCell id="e0" edge="1" parent="1" source="n0" style="endArrow=classic;html=1;strokeWidth=2;" target="n1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e1" edge="1" parent="1" source="n1" style="endArrow=classic;html=1;strokeWidth=2;" target="n2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e2" edge="1" parent="1" source="n2" style="endArrow=classic;html=1;strokeWidth=2;" target="n3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e3" edge="1" parent="1" source="n3" style="endArrow=classic;html=1;strokeWidth=2;" target="n4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e4" edge="1" parent="1" source="n4" style="endArrow=classic;html=1;strokeWidth=2;" target="n5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="e5" edge="1" parent="1" source="n5" style="endArrow=classic;html=1;strokeWidth=2;" target="n6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
