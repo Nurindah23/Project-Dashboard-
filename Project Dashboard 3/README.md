@@ -1,3 +1,5 @@
+[View Dashboard (PDF)](<Dashboard Global Sales.pdf>)
+
 # Performance Business Regional (Telecommunications Industry)
 
 A monthly performance report that turns 200,000+ raw records from the OSS system into a clear view of target vs actual results, built in Excel and presented in PowerPoint.
