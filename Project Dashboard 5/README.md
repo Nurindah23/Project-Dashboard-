@@ -1,3 +1,5 @@
+[View Dashboard (PDF)](<Dashboard Global Sales.pdf>)
+
 # Sales and Profit Dashboard (Pharmaceutical Industry)
 
 An interactive Excel dashboard that turns 8,000+ raw sales records from 2021 to 2024 into clear insights on sales and profit by product, customer, region, and month.
