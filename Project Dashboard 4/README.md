@@ -1,4 +1,4 @@
-[View Dashboard (PDF)](<Dashboard Global Sales.pdf>)
+[View Dashboard (PDF)](<Dashboard Order Report.pdf>)
 
 # Report Analysis Dashboard (Supplies)
 
