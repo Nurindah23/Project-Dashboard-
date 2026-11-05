@@ -1,4 +1,4 @@
-[View Dashboard (PDF)](<Dashboard Global Sales.pdf>)
+[View Dashboard (PDF)](<Dashboard Sales Profit.pdf>)
 
 # Sales and Profit Dashboard (Pharmaceutical Industry)
 
