@@ -1,3 +1,5 @@
+[View Dashboard (PDF)](Project%20Dashboard%201/Dashboard%20Global%20Sales.pdf)
+
 # Order Store Dashboard (E-Commerce)
 
 An interactive Tableau dashboard that analyzes 10,000+ order records, focusing on order trends, product demand, and shipping performance.
