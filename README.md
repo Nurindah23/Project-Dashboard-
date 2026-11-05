@@ -35,18 +35,6 @@ Based on a real report from my internship at PT Trans Indonesia Superkoridor (Bu
 - **Data visualization:** Tableau, Power BI, Looker Studio, Excel, PowerPoint
 - **Dashboard design:** interactive filters and slicers, KPI cards, trend and map charts
 
-## Repository Structure
-Each project folder contains its own README with the problem, solution, tools, and workflow, plus the supporting files.
-
-```
-Project-Dashboard-/
-├── Project Dashboard 1/   (Tableau)
-├── Project Dashboard 2/   (Power BI)
-├── Project Dashboard 3/   (Looker Studio)
-├── Project Dashboard 4/   (Excel)
-└── Project Dashboard 5/   (Excel & PowerPoint)
-```
-
 ## Contact
 - GitHub: [Nurindah23](https://github.com/Nurindah23)
 - LinkedIn: https://www.linkedin.com/in/nurindahpuspita/
