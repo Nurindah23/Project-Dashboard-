@@ -1,3 +1,5 @@
+[View Dashboard (PDF)](<Dashboard Global Sales.pdf>)
+
 # Report Analysis Dashboard (Supplies)
 
 An interactive Looker Studio dashboard that turns 9,000+ raw order records into clear insights on order volume, customer segments, regions, and shipping preferences.
