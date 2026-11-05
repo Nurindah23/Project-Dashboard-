@@ -17,17 +17,17 @@ A collection of five data analytics projects that turn raw data into interactive
 ### 1. Order Store Dashboard (E-Commerce)
 Cleaned order data in Python and built a Tableau dashboard that breaks down order trends, product demand, shipping time, and ship mode usage.
 
-### 2. Sales Performance Dashboard (Retail)
+### 2. Sales Performance Dashboard (Retail Industry)
 Stored and cleaned data in MySQL, then built a three-page Power BI report that compares actual sales against budget by month, product, customer, and city.
 
-### 3. Order Analysis Dashboard (Retail)
-Prepared order data in Google Sheets and built a Looker Studio dashboard showing order volume by region, category, segment, and city, with ship mode filters.
-
-### 4. Sales and Profit Dashboard (Pharmaceutical)
-Cleaned sales data and built an Excel dashboard with pivot tables, pivot charts, and slicers to track sales and profit by product, customer, region, and month.
-
-### 5. Regional Business Performance Report (Telecommunications)
+### 3. Performance Business Regional (Telecommunications Industry)
 Based on a real report from my internship at PT Trans Indonesia Superkoridor (Business Performance division). Processed 200,000+ OSS records in Excel and presented target vs actual, MoM, and YoY performance in PowerPoint.
+
+### 4. Report Analysis Dashboard (Supplies)
+Prepared 9,000+ order records in Google Sheets and built a Looker Studio dashboard showing order volume by region, category, segment, and city, with ship mode filters.
+
+### 5. Sales and Profit Dashboard (Pharmaceutical Industry)
+Cleaned 8,000+ sales records and built an Excel dashboard with pivot tables, pivot charts, and slicers to track sales and profit by product, customer, region, and month.
 
 ## Skills Demonstrated
 - **Data cleaning and preparation:** Python, SQL, Excel, Google Sheets
