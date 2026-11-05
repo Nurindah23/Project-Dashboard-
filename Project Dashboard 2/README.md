@@ -1,5 +1,8 @@
 [View Dashboard (PDF)](Dashboard%20Sales%20Report.pdf)
 
+# Sales Performance Dashboard (Retail Industry)
+An interactive Power BI dashboard that compares actual sales against budget from 2019 to 2021, built from 1,000+ records cleaned in MySQL.
+
 ## Business Problem
 Without a clear comparison between actual sales and budget, it was hard to know whether sales targets were being met each month, or which customers and products drove the most revenue.
 
