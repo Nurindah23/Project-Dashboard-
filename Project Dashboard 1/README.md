@@ -1,3 +1,5 @@
+![Dashboard Preview](dashboard-preview.png)
+
 [View Dashboard (PDF)](<Dashboard Global Sales.pdf>)
 
 # Order Store Dashboard (E-Commerce)
