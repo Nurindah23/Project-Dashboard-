@@ -1,4 +1,4 @@
-[View Dashboard (PDF)](Project%20Dashboard%201/Dashboard%20Global%20Sales.pdf)
+[View Dashboard (PDF)](Project Dashboard 1/Dashboard Global Sales.pdf)
 
 # Order Store Dashboard (E-Commerce)
 
