@@ -1,4 +1,4 @@
-[View Dashboard (PDF)](Project Dashboard 1/Dashboard Global Sales.pdf)
+[View Dashboard (PDF)](<Dashboard Global Sales.pdf>)
 
 # Order Store Dashboard (E-Commerce)
 
